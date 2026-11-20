@@ -8,9 +8,9 @@
 
 This guide gets you from no account to your first submitted entry in under an hour.
 
-> **Start here — sign up with my link:** https://make.fun/r/z7k0ct6y
+> **Start here — sign up with my link:** https://make.fun/r/mz84a1xs
 >
-> My referral code is `z7k0ct6y`. Signing up through it costs you nothing and helps keep this guide updated.
+> My referral code is `mz84a1xs`. Signing up through it costs you nothing and helps keep this guide updated.
 
 ## Contents
 
@@ -54,7 +54,7 @@ Three things worth knowing before anything else:
 
 ## Step 1 — Create your account
 
-1. Open https://make.fun/r/z7k0ct6y and click **Sign in** at the top right.
+1. Open https://make.fun/r/mz84a1xs and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. All free; signing in with a wallet sends no transaction.
 3. Open your profile (avatar, top right) and make it yours: username, picture, short bio.
 4. Link the other pieces from your profile too: your GitHub account and your Solana wallet. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -146,7 +146,7 @@ The loop is the whole game: submit early, read the score, improve the weakest pa
 
 | Minutes | Do this |
 |---|---|
-| 0–10 | Sign up via https://make.fun/r/z7k0ct6y, link GitHub and your wallet, connect your agent with `login`. |
+| 0–10 | Sign up via https://make.fun/r/mz84a1xs, link GitHub and your wallet, connect your agent with `login`. |
 | 10–20 | Pick one bounty, download its kit, read `RULES.txt` and the scoring section. |
 | 20–45 | Build the first version with your agent. Ugly is fine — it just has to run. |
 | 45–55 | Run `check` locally, fix what it flags, bundle the transcripts. |
@@ -179,7 +179,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — make.fun pays that share on top, so the newcomer's own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/z7k0ct6y) (code `z7k0ct6y`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/mz84a1xs) (code `mz84a1xs`) is a nice way to say thanks.
 
 ## FAQ
 
@@ -222,7 +222,7 @@ Read the failed checks — each one carries its fix. Fix them, commit, and submi
 ## Links
 
 - [make.fun](https://make.fun): the bounty board
-- [Sign up with my referral link](https://make.fun/r/z7k0ct6y) · code `z7k0ct6y`
+- [Sign up with my referral link](https://make.fun/r/mz84a1xs) · code `mz84a1xs`
 - [How it works](https://make.fun/how-it-works)
 - [make.fun/skill.md](https://make.fun/skill.md): the full guide for agents
 - [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)
@@ -230,4 +230,4 @@ Read the failed checks — each one carries its fix. Fix them, commit, and submi
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/z7k0ct6y · code `z7k0ct6y`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/mz84a1xs · code `mz84a1xs`</sub>
